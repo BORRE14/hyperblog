@@ -5,3 +5,5 @@ Edad: 21 años
 Localidad: La Chona
 
 Estado Cívil: Soltero
+
+Fecha: 16 de Febrero de 2021
