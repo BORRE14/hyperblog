@@ -2,8 +2,10 @@ Nombre completo: Miguel Angel Ibarra González
 
 Edad: 21 años
 
-Borre también es un estudiante de Ingeniería 
+Borre es la persona que ha modificado este proyecto de Open Source 
 
 Estado Cívil: Soltero
 
 Es un estudiante de Ingeniería en Electrónica
+
+Vive en la Chona
