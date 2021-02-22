@@ -10,4 +10,8 @@ Un blog mamalón de prueba de Git Y GittHub
 
 * Creado por el maravilloso BORRE
 
+* Incluye ejemplos en Windows, Linux y Mac.
+
+* Disponible para todas las edades. 
+
 y como un amable recordatorio: **Este readme.md es de prueba**
