@@ -8,4 +8,6 @@ Un blog mamalón de prueba de Git Y GittHub
 * El flujo de trabajo
 * El amor por las verdaderas practicas 
 
+* Creado por el maravilloso BORRE
+
 y como un amable recordatorio: **Este readme.md es de prueba**
